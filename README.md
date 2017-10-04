@@ -3,7 +3,7 @@ Projet Cloud Infrastructure
 
 #
 
-Veiller à bien se placer à la racine de chaque partie avant de lancer *docker-compose build* puis *docker-compose up -d*
+Veiller à bien se placer à la racine de chaque partie avant de lancer *docker-compose build* puis *docker-compose up*
 
 #
 
