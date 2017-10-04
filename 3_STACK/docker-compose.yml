@@ -16,6 +16,7 @@ services:
 # Apache Configuration
    apache:
      image: php:apache
+     #build: apache
      volumes:
        - ./web/:/var/www/html
      links:
